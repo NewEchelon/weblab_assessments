@@ -1,0 +1,63 @@
+@charset "UTF-8;";
+
+body{
+    border-bottom:3px dotted black;
+}
+
+font{
+    font-weight:bold;
+    font-size:12px;
+    color:#999;
+
+
+}
+/*p:first-letter{
+    font-weight:bold;
+}
+p:first-line{
+    font-style:italic;
+    font-size:14px;
+    margin:1em;
+}*/
+p{
+    overflow:auto;
+
+    font-family:Cambria, Georgia, Serif;
+    background-color:#999;
+
+    border-bottom:1px solid #d3d3d3;
+
+}
+h1{
+font-family:Arial, Helvetica, Sans-serif;
+text-align:center;
+background-color:#666;
+border-bottom: 2px groove white;
+color:white;
+
+
+}
+
+.first{ font-style:italic;
+    font-size:14px;
+    margin:1em;
+text-align:center;
+background-color:#333;
+color:white;}
+
+
+
+
+
+
+/*- bold
+- 12px font size
+- italic
+- margin of 1em
+- bottom border 1px solid lightgray
+- color #999
+
+
+- center
+	- bottom border 2px groove white
+	- font face Arial*/
