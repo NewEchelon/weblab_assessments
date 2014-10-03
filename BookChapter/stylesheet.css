@@ -1,0 +1,62 @@
+a{
+    color:black;
+    text-decoration:none;
+}
+a:visited{color:black;
+
+
+}
+body{margin:0;
+    background-image:url("caterpillar.jpg");
+    min-height:100%;
+    min-width:100%;
+    background-size:cover;
+
+    background-repeat:no-repeat;
+
+
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;}
+ol{list-style:none;
+}
+
+ul{list-style:none;
+    text-align:center;
+
+}
+#nav #nav ol #nav ul{
+
+    text-decoration:none;
+    list-style:none;
+
+}
+#nav1 #nav1 ol #nav1 ul li{
+color:white;
+    text-decoration:none;
+    /*list-style:none;*/
+}
+#contents{
+    background-color:white;
+    border:2px dotted black;
+border-radius:10px;
+box-shadow: 0 5px 10px rgba(0,0,0,1);
+margin: 15px auto;
+
+    padding:0 10px;
+
+height:500px;
+width:600px;
+overflow:auto;}
+
+.contents{
+    text-align:center;
+    line-height:32px;}
+h1{ color:white;
+    font-family: 'Shadows Into Light', cursive;
+    text-align:center;
+}
+h2{font-size:18px;
+
+    text-align:center}
+a
