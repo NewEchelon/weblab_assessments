@@ -1,0 +1,120 @@
+
+#wrapper{
+
+
+}
+#header{
+
+    position:relative;
+
+    background:url("img/header_background.jpg") no-repeat center ;
+    height:624px;
+    width:1180px;
+
+
+}
+#quote1{
+    position:relative;
+margin:100px auto;}
+
+#newsletter{
+    background-color:#24aa98;
+    height:120px;
+    width:1180px;
+
+}
+#logo{position:relative;
+top:25px;
+left:15px;}
+
+
+#nav {position:relative;
+
+    right:25px;
+
+    float:right;
+
+}
+#nav ul {
+
+    top:0;
+    list-style:none;
+
+}
+
+#nav ul li{padding:0 15px;
+    font-family: 'Cabin', sans-serif;
+    display:inline;
+color:white;}
+#nav ul li a{
+    text-decoration:none;
+    color:white;
+}
+#main{
+    height:1350px;
+    width:1180px;
+
+}
+#main ul {list-style:none;
+}
+#main ul li{
+    list-style:none;
+    display:inline;}
+
+
+#map{
+
+    background-color:#D6D9DB;
+}
+#map ul{position:relative;
+    float:left;}
+#map ul li{color:white;
+    list-style:none;
+text-decoration:none;}
+
+.clearfix{
+    clear:both;
+
+}
+#logo1{float:left;}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    color:white;}
+h2{ font-size:36px;
+font-family:'cabin', sans-serif
+}
+h4{font-family: 'Cabin', sans-serif;
+    color:white;}
+
+
+/*BUTTONS*/
+
+/* Recommend */
+button.recommend,
+[role="button"].recommend {
+    font-family: 'Cabin', sans-serif;
+    border:none;
+    padding:20px;
+    border-radius:5px;
+    background-color: #24aa98;
+    color: #fff;
+}
+
+button.subscribe,
+[role="button"].subscribe {
+    font-family: 'Cabin', sans-serif;
+    border:none;
+    padding:10px;
+    border-radius:5px;
+    background-color: #D9C16B;
+    color: #fff;}
+
+button.email,
+[role="button"].email {
+    font-family: 'Cabin', sans-serif;
+    border:none;
+    padding:10px;
+    border-radius:5px;
+    background-color:#65ABCF;
+    color: #fff;}
